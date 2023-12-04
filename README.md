@@ -1,3 +1,3 @@
 Привет!
 В сентябре я была в Санкт-Петербурге на фотосессии, грустный город.
-[Иллюстрация](https://github.com/sabina7350/SpbPh/raw/main/blurr.jpg)
+(https://github.com/sabina7350/SpbPh/raw/main/blurr.jpg)
